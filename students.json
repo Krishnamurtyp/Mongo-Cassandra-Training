@@ -1,0 +1,41 @@
+[
+    {
+        "student_id": 1,
+        "name": "Alice",
+        "age": 21,
+        "major": "Computer Science",
+        "courses": ["Databases", "Algorithms"],
+        "address": {
+            "street": "123 Main St",
+            "city": "Springfield",
+            "zip": "62701"
+        },
+        "enrollment_date": "2021-09-01"
+    },
+    {
+        "student_id": 2,
+        "name": "Bob",
+        "age": 22,
+        "major": "Mathematics",
+        "courses": ["Calculus", "Statistics"],
+        "address": {
+            "street": "456 Elm St",
+            "city": "Springfield",
+            "zip": "62702"
+        },
+        "enrollment_date": "2020-09-01"
+    },
+    {
+        "student_id": 3,
+        "name": "Charlie",
+        "age": 20,
+        "major": "Physics",
+        "courses": ["Quantum Mechanics", "Electromagnetism"],
+        "address": {
+            "street": "789 Oak St",
+            "city": "Springfield",
+            "zip": "62703"
+        },
+        "enrollment_date": "2022-01-15"
+    }
+]
